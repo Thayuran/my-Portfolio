@@ -22,7 +22,7 @@ function App() {
       <section>
         <div>
             <h1>Welcome to Thayu Portfolio</h1>
-            <h3>Building Climber and Train Stopper</h3>
+            <h3>Make The World A Better Place With Developer.</h3>
             <p>You might saw me jumping, climbing buildings, and stopping trains. But nobody pays me a dime for that work. That's why I am learning and mastering web development. I will not stop until I become the Web Development Hero.</p>
             <a class="btn" href="#">Hire Me</a>
         </div>
